@@ -4,7 +4,7 @@ package client
 import (
 	"context"
 
-	"github.com/mark3labs/mcp-go/mcp"
+	"github.com/KunalSin9h/modern-mcp-go/mcp"
 )
 
 // MCPClient represents an MCP client interface

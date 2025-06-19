@@ -14,7 +14,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mark3labs/mcp-go/mcp"
+	"github.com/KunalSin9h/modern-mcp-go/mcp"
 )
 
 type jsonRPCResponse struct {

@@ -1,4 +1,4 @@
-module github.com/mark3labs/mcp-go
+module github.com/KunalSin9h/modern-mcp-go
 
 go 1.23
 

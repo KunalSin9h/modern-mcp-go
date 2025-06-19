@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mark3labs/mcp-go/mcp"
-	"github.com/mark3labs/mcp-go/mcptest"
-	"github.com/mark3labs/mcp-go/server"
+	"github.com/KunalSin9h/modern-mcp-go/mcp"
+	"github.com/KunalSin9h/modern-mcp-go/mcptest"
+	"github.com/KunalSin9h/modern-mcp-go/server"
 )
 
 func TestServerWithTool(t *testing.T) {

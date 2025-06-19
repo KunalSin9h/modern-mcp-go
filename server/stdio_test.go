@@ -9,7 +9,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mark3labs/mcp-go/mcp"
+	"github.com/KunalSin9h/modern-mcp-go/mcp"
 )
 
 func TestStdioServer(t *testing.T) {

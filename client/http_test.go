@@ -3,8 +3,8 @@ package client
 import (
 	"context"
 	"fmt"
-	"github.com/mark3labs/mcp-go/mcp"
-	"github.com/mark3labs/mcp-go/server"
+	"github.com/KunalSin9h/modern-mcp-go/mcp"
+	"github.com/KunalSin9h/modern-mcp-go/server"
 	"testing"
 	"time"
 )
